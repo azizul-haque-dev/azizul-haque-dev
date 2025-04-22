@@ -17,7 +17,7 @@ Skills: HTML, JavaScript, React.js, Next.js, and Tailwind CSS.
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: aizul.contact.me@gmail.com
+- 📫 How to reach me: azizul.contact.me@gmail.com
 - 😄 Pronouns: 😊 
 - ⚡ Fun fact: I Love fun fact
 
